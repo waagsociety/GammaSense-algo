@@ -1,5 +1,6 @@
 # Gammasense-algo
-Algorithm to extract gamma rays CMP from CMOS camera reading
+Algorithm to extract gamma rays CMP from CMOS camera reading.
+The project has been a collaboration between [Waag](https://waag.org), [WISE Nederland](https://wisenederland.nl/) with the support of [SIDN fonds](https://www.sidnfonds.nl/).
 
 # CMOS research
 ## What did we try to achieve?
